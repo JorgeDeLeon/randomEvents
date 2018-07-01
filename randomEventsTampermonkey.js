@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Get a random event. See detaild docs at https://github.com/SamuelSwartzberg/randomEvents
 // @author       Samuel Swartzberg
-// @match        https://www.facebook.com/events/discovery/*&random
+// @match        https://www.facebook.com/events/discovery/*
 // @grant        none
 // @require http://code.jquery.com/jquery-latest.js
 // ==/UserScript==
